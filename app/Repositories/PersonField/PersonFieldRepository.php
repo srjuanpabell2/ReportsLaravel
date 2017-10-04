@@ -8,6 +8,7 @@
  */
 namespace App\Repositories\PersonField;
 
+use App\Models\PersonField\PersonField;
 use Prettus\Repository\Eloquent\BaseRepository;
 
 class PersonFieldRepository extends BaseRepository

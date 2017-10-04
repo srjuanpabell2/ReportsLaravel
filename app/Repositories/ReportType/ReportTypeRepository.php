@@ -8,7 +8,7 @@
  */
 namespace App\Repositories\ReportType;
 
-use App\ReportType;
+use App\Models\ReportType\ReportType;
 use Prettus\Repository\Eloquent\BaseRepository;
 
 class ReportTypeRepository extends BaseRepository
